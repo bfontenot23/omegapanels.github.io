@@ -1,2 +1,0 @@
-# omegapanels.github.io
-Test 
